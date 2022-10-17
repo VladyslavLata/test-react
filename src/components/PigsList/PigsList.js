@@ -8,7 +8,7 @@ export const PigsList = ({ dataPigs, onSelect }) => {
   const selectImg = img => setSelectedImg(img);
 
   return (
-    <Box as="ul" display="flex" p={5} gridGap={4}>
+    <Box as="ul" display="flex" p={4} gridGap={4}>
       {dataPigs.map((pig, i) => (
         <li key={i}>
           <PigInfo

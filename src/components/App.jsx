@@ -85,7 +85,11 @@ export class App extends Component {
               Lorem ipsum, dolor sit amet consectetur adipisicing elit. Minima
               culpa architecto enim excepturi officia assumenda officiis non
               cupiditate, ipsum dolorum repellendus temporibus ullam similique
-              rerum omnis? Assumenda qui ad placeat.
+              rerum omnis? Assumenda qui ad placeat. Lorem ipsum, dolor sit amet
+              consectetur adipisicing elit. Minima culpa architecto enim
+              excepturi officia assumenda officiis non cupiditate, ipsum dolorum
+              repellendus temporibus ullam similique rerum omnis? Assumenda qui
+              ad placeat.
             </p>
             <button type="button" onClick={this.toggleModal}>
               Close modal
