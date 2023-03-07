@@ -14,8 +14,8 @@ export const ModalBox = styled.div`
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
-  max-width: 600px;
-  min-height: 200px;
+  max-width: 700px;
+  min-height: 250px;
   background-color: #fff;
   width: 100%;
 `;
